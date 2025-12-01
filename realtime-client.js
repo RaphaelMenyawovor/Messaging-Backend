@@ -25,7 +25,7 @@ function listenToMessages(conversationId) {
 }
 /*
 // Example
-const conversationId = 'your-conversation-id-here';
+const conversationId = 'conversation-id';
 listenToMessages(conversationId);
 
 console.log('Listening for messages...');
